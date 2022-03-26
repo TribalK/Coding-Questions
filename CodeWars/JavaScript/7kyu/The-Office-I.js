@@ -1,3 +1,6 @@
+/*
+  Solution by TribalK
+*/
 function outed(meet, boss){
   let total = 0;
   let totalKeys = 0;
